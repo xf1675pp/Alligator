@@ -15,6 +15,15 @@ import java.sql.*;
  */
 public class MovieDriver 
 {
+       
+       /**
+       *This method updates the movie details
+       */
+       public updateMovie(int movie_id, String title, String native_name)
+       {
+              
+       }
+       
        public static void main(String[] args)
        {
            
