@@ -39,7 +39,13 @@ public class MovieDriver
     public boolean createMovie(){
         return true;
     }
+	 //This method edits movie data-Sapana
+	
+    public boolean editmovie(){
+        return true;
+    }
 
+	
 
        public static void main(String[] args)
        {
