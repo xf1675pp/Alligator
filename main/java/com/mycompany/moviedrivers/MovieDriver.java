@@ -15,6 +15,13 @@ import java.sql.*;
  */
 public class MovieDriver 
 {
+	/* this method will delete the movie that has same movie_id input. 
+	 * return true if movie with the movie_id has been deleted.
+	 * return false if movie with the movie_id has fail to delete.
+	 */
+	public boolean deleteMovie(int movie_id){
+		
+	}
        public static void main(String[] args)
        {
            
