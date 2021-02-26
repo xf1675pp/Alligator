@@ -15,6 +15,10 @@ import java.sql.*;
  */
 public class MovieDriver 
 {
+    //This method will return true if a movie is created.
+    public boolean createMovie(){
+        return true;
+    }
        public static void main(String[] args)
        {
            
